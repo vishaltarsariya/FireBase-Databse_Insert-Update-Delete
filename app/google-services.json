@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "803512381008",
+    "firebase_url": "https://fir-databaseapp-eed4c.firebaseio.com",
+    "project_id": "fir-databaseapp-eed4c",
+    "storage_bucket": "fir-databaseapp-eed4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803512381008:android:965f1ae23688302b",
+        "android_client_info": {
+          "package_name": "com.example.vishal.firebase_database_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803512381008-ocekv736f7efp3h86oe1747r9c7pibgq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vishal.firebase_database_app",
+            "certificate_hash": "28ddcd4ff82c482963952151fb557e62a839b998"
+          }
+        },
+        {
+          "client_id": "803512381008-vkkp9kdfmqm47or1esf8ku8ad92ur4en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACw2ygiUEvOPbhGa6PNB8xuX7Ak22CcjE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803512381008-vkkp9kdfmqm47or1esf8ku8ad92ur4en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
